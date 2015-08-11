@@ -186,7 +186,7 @@ Documentation, source code and support information is available here:
 .. _`cadvisor`: https://github.com/google/cadvisor
 .. _`Datadog`: https://www.datadoghq.com
 .. _`Datadog agent`: https://github.com/DataDog/docker-dd-agent
-.. _`heapster`: https://github.com/GoogleCloudPlatform/heapster/blob/master/clusters/coreos/README.md
+.. _`heapster`: https://github.com/GoogleCloudPlatform/heapster/blob/master/docs/coreos.md
 .. _`this blog post`: https://www.datadoghq.com/2014/06/monitor-docker-datadog/
 .. _`New Relic`: http://newrelic.com/
 .. _`newrelic-sysmond`: https://github.com/johanneswuerbach/newrelic-sysmond-service
